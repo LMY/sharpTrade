@@ -1,0 +1,20 @@
+TODO
+----------------------------------------------
+- tables: columns.Width settato perchè si vedano bene
+- tables: columns.Width on windows resize
+
+- parse: double[] right_arg(String expression)
+- parse: double[] right_arg(String command, double[])
+
+- download_all
+- download_missing
+- update: (aggiorna le date dei csv online e confrontale con quelle dei csv che hai) -> { not checked, updated, old, missing }
+- upgrade (download, overwrite, newer file)
+
+- menu Series: Select
+- menu Series: Select window (albero con le serie che ci sono, possibilità di rimuovere, resample... si apre questo si sceglie quel che si vuole e il file è pronto.)
+- menu Series: Resample
+
+- TradeSystemAnalytic
+- TradeSystemGenetic
+- TradeSystemNN
